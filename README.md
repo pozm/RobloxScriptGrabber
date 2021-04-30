@@ -13,3 +13,5 @@ This is the output directory location, it will automatically make a script folde
 ```cmd
 RobloxScriptGrabber.exe C:\Users\****\Documents\ROBLOX\speed.rbxl C:\Users\****\Documents\test
 ```
+![image](https://user-images.githubusercontent.com/44528100/116741742-6b279980-a9ee-11eb-8bc3-5c59faa614c5.png)
+![image2](https://cdn.discordapp.com/attachments/519306219291279362/837764973807271966/unknown.png)
