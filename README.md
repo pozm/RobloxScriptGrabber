@@ -18,4 +18,4 @@ RobloxScriptGrabber.exe C:\Users\****\Documents\ROBLOX\speed.rbxl C:\Users\****\
 
 
 
-Thanks to [CloneTrooper1019](https://github.com/CloneTrooper1019) for making the libary for reading rbxm/etc files
+Thanks to [CloneTrooper1019](https://github.com/CloneTrooper1019) for making the library for reading rbxm/etc files
